@@ -8,7 +8,7 @@ And call the attack method
 >> a.attack(b)
 
 
-# here A is attacking b
+>> Here A is attacking b
 
 we can proceed the attack calling till the health of the villian or Hero reaches to zero 
 
