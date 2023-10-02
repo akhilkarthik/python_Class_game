@@ -1,5 +1,9 @@
-This is a python game inorder to understand class and objects creation
+This is a python game inorder to understand class and objects creation 
+
+
 Here we can add Hero name using object
+
+
 >>a=Hero("Spider man")
 Also villian name using object
 >>b=Hero("Spider man")
